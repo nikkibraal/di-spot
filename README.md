@@ -1,3 +1,5 @@
+# Di-Spot 🎼
+
 A Music Discord Bot, that plays *Youtube*, *Spotify*, *Deezer* links or raw queries. Di-Spot is currently a verified by Discord app, Wanna make your own? 
 Just follow the instructions and use it in your own way, executing it in your own machine or hosting in others machines to work 24/7.
 
