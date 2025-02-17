@@ -1,5 +1,3 @@
-<img width="447" alt="Di-Spot - Official App" src="https://github.com/user-attachments/assets/1842c3f7-aa8f-4090-840e-46201efa2f21" />
-
 A Music Discord Bot, that plays *Youtube*, *Spotify*, *Deezer* links or raw queries. Di-Spot is currently a verified by Discord app, Wanna make your own? 
 Just follow the instructions and use it in your own way, executing it in your own machine or hosting in others machines to work 24/7.
 
@@ -7,6 +5,7 @@ Di-Spot uses multiprocessing and asynchronous Python modules to maximize Music P
 So it isn't suppose to lag when many commands are being processed.
 Able to play in multiples discord serves at the same time without affecting the response time.
 
+<img width="447" alt="Di-Spot - Official App" src="https://github.com/user-attachments/assets/1842c3f7-aa8f-4090-840e-46201efa2f21" />
 
 # Music 🎧
 
