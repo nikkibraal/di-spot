@@ -28,7 +28,7 @@ Setting up for yourself?
 
 Requirements
 
-Installation of ``Python 3.11`` and the dependencies in the requirements.txt file, creation of your own Bot in Discord and Spotify Keys. <br>
+Installation of ``Python 3.12`` and the dependencies in the requirements.txt file, creation of your own Bot in Discord and Spotify Keys. <br>
 To install the dependencies type this command in the terminal, in the project root folder.
 
 ```
