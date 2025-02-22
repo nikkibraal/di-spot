@@ -30,8 +30,10 @@ Requirements
 
 For our newest release place follow the text below:
 
-Installation of ``Python 3.10`` and the dependencies in the requirements.txt file, creation of your own Bot in Discord and Spotify Keys. <br>
+Installation of ``Python 3.10`` is required for our V1 release and the dependencies in the requirements.txt file, creation of your own Bot in Discord and Spotify Keys. <br>
 To install the dependencies type this command in the terminal, in the project root folder.
+
+If you choose to use our V2 release, this release is compatible with ``Python 3.12`` which in this case would need to be installed instead of ``Python 3.10``.
 
 ```
 pip install -r requirements.txt
